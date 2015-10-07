@@ -5,4 +5,5 @@ void main()
 int a,b;
 int add c;
 c=a+b;
+prnt(aa);
 }
